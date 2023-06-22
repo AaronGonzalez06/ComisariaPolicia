@@ -1,0 +1,7 @@
+modelo\Delincuente.class
+modelo\Policia.class
+controlador\ControladorDelincuente.class
+modelo\Caso.class
+vista\VistaDelincuente$1.class
+modelo\Conexion.class
+vista\VistaDelincuente.class
